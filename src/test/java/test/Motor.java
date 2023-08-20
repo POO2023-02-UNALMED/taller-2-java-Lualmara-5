@@ -1,12 +1,12 @@
 package test;
-
 public class Motor {
 	
-	int Ncilindros;
+	int numeroCilindros;
 	String tipo;
-    int registro;
+	int registro;
     
     void cambiarRegistro (int registro){
     	this.registro = registro;
     }
+}
 }
